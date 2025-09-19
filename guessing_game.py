@@ -1,3 +1,4 @@
+#Project number-1
 import random
 
 # Generate a random integer between 1 and 100 (inclusive)
